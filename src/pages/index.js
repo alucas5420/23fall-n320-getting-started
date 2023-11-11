@@ -7,7 +7,8 @@ import Line from "@/components/Line";
 export default function Home() {
   return (
     <>
-    <Nav header = "Home " header2 = " About " header3 = "  Products " header4 = "  Contact"/>
+    <Nav 
+    header = "Home " header2 = " About " header3 = "  Products " header4 = "  Contact"/>
     
     <Hero heroImage="/TheCity.jpg" height="400px" header="IUPUI" />
     <Line/>

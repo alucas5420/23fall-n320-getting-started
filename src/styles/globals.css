@@ -15,3 +15,25 @@ h1, h2, h3, h4, h5, h6, p {
   justify-content: space-evenly;
 
 }
+
+.mainNav {
+  display: flex;
+  height: 60px;
+  width: 100%;
+  background-color: #8B0000;
+}
+
+.mainNav ul {
+  display: flex;
+  width: 100%;
+  list-style: none;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.mainNav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}

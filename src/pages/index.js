@@ -16,7 +16,7 @@ export default function Home() {
     <p className={styles.otherFont}>This is the home page for the IUPUI official site.</p>
     <p className={styles.otherFont}>Be sure to look around.</p>
     <Line/>
-    <Hero heroImage="/City.jpg" backgroundRepeat="no-repeat" height="500px" />
+    <Hero heroImage="/City.jpg" backgroundRepeat="no-repeat" height="400px" />
     <Line/>
     
     </>

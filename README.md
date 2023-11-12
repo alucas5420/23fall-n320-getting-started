@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Adam Lucas 
 
-Live Link: [https://homework1-adam-s-projects-616a72e0.vercel.app/](https://homework1-adam-s-projects-616a72e0.vercel.app/)
+Live Link: 
 
 ## Getting Started
 
